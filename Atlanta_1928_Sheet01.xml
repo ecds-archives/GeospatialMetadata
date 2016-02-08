@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<recordList>
+  <record> 
+    <entity name="titleinfo"> 
+      <field name="title"> 
+        <value>City of Atlanta: Sheet 1</value> 
+      </field> 
+    </entity>  
+    <entity name="authorinfo" id="1"> 
+      <field name="creator"> 
+        <value>U.S. Coast and Geodetic Survey</value> 
+      </field> 
+    </entity>  
+    <entity name="origininfo"> 
+      <field name="date"> 
+        <value>1930</value> 
+      </field>  
+      <field name="publisher"> 
+        <value>U.S. Coast and Geodetic Survey and City of Atlanta Mapping Division</value> 
+      </field> 
+    </entity>  
+    <entity name="descriptioninfo"> 
+      <field name="format"> 
+        <value>image/jpeg</value> 
+      </field>  
+      <field name="dimension"> 
+        <value>47 x 39 cm.</value> 
+      </field>  
+      <field name="projection"> 
+        <value>Polyconic</value> 
+      </field>  
+      <field name="scale"> 
+        <value>2400</value> 
+      </field>  
+      <field name="description"> 
+        <value>Color map showing Atlanta Union Stockyards, Exposition Cotton Mills, Western and Atlantic Southern Railway</value> 
+      </field> 
+    </entity>  
+    <entity name="resourcetypeinfo"> 
+      <field name="type"> 
+        <value>Atlas Map</value> 
+      </field> 
+    </entity>  
+    <entity name="geographicinfo"> 
+      <field name="city"> 
+        <value>Atlanta</value> 
+      </field>  
+      <field name="county"> 
+        <value>Fulton County</value> 
+      </field>  
+      <field name="state___province"> 
+        <value>Georgia</value> 
+      </field>  
+      <field name="country"> 
+        <value>United States</value> 
+      </field> 
+    </entity>  
+    <entity name="fulltitleinfo"> 
+      <field name="full_title"> 
+        <value>City of Atlanta: Sheet 1. Construction Department, William A. Hansell, Chief; S.P. Floore, Topographic Engineeer in charge. Topography by C.A. Killian. Control by U.S. Coast and Geodetic Survey and City of Atlanta Mapping Division. Surveyed in 1928. Williams &amp; Heintz Co., Wash, D.C.</value> 
+      </field> 
+    </entity>  
+    <entity name="publicationinfo"> 
+      <field name="publication_date"> 
+        <value>1930</value> 
+      </field>  
+      <field name="publication_type"> 
+        <value>City Atlas</value> 
+      </field>  
+      <field name="publication_title"> 
+        <value>Atlas of Atlanta and Vicinity, 1928</value> 
+      </field> 
+    </entity>  
+    <entity name="institutioninfo"> 
+      <field name="institution"> 
+        <value>Manuscript, Archives, and Rare Book Library, Emory University.</value> 
+      </field> 
+    </entity>  
+    <entity name="rightsinfo"> 
+      <field name="rights"> 
+        <value>The City of Atlanta has granted Emory University, Woodruff Library, permission to digitize, distribute, display and geo-reference maps produced by the U.S. Coast Guard and Geodetic Survey and the City of Altanta Mapping Division in a 1928 survey published as the Atlas of Atlanta and VIcinity. Emory may digitize, display, and georeference the maps in electronic formats, including free public access to maps on the web. The City of Atlanta does not attest to the accuracy of the image. The Maps Content, including all images and text, are for personal, educational, and non-commercial use only.</value> 
+      </field> 
+    </entity>  
+    <field name="identifier"> 
+      <value>01_300dpi</value> 
+    </field><field name="id_local"><value>r9hgv</value></field>
+  </record>
+</recordList>
